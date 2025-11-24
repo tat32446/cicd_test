@@ -1,0 +1,38 @@
+__pycache__
+venv
+*.pyc
+.git
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.env
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Git files
+.git/
+.gitignore
+
+# Docker files
+*.dockerignore
+Dockerfile
+
+# IDE/editor files
+*.swp
+*.swo
+*.vscode/
+.idea/
+
+# Logs
+*.log
