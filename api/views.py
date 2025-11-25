@@ -5,6 +5,6 @@ from django.http import JsonResponse
 def home(request):
     return JsonResponse({
         "status": "success",
-        "message": "Django Backend is running using CICD ✅"
+        "message": "Django Backend is running using CICD ... ✅"
     })
 
