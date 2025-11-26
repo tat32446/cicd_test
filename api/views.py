@@ -5,6 +5,6 @@ from django.http import JsonResponse
 def home(request):
     return JsonResponse({
         "status": "success",
-        "message": "Django Backend is running using Jenking Demo to Sagar ✅"
+        "message": "Django Backend is running using Jenking Demo to Sagar from ✅"
     })
 
